@@ -1,6 +1,6 @@
 # Strings
 """
-In python anything enclose between sigle or double quotation mark is considerd as string.
+In python anything enclose between single or double quotation mark is considered as string.
 String is essentially sequence or arrays of textual data.    
 """
 # Example
